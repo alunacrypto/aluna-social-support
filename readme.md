@@ -1,7 +1,7 @@
-## Documentation
+## Aluna Social Support Page
 ---
 
-This is the source code for [https://support.aluna.social](https://support.aluna.social)
+This is the source code for [http://support.aluna.social](http://support.aluna.social)
 
 To edit the documentation simply edit files inside the `source` folder !
 

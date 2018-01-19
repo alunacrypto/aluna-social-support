@@ -1,33 +1,32 @@
-- [Dashboard](dashboard/intro.md)
+- [Insights](dashboard/intro.md)
   - [Creating an Account](dashboard/creating_an_account.md)
   - [Exchange Accounts](dashboard/connecting_exchance_accounts.md)
-  - [Social](dashboard/social.md)
+  - [Markets](dashboard/markets.md)
   <!-- - [How Copy Trade Works](dashboard/how_copy_trade_works.md) -->
 
-- [Telegram Bot](bot/intro.md)
-  - [Connecting the bot](bot/connecting_the_bot.md)
+- [Telegram](telegram/intro.md)
+  - [Aluna Group](telegram/aluna_group.md)
+  - [Telegram Bot](telegram/telegram_bot.md)
 
-- [Bot Commands](bot/commands/intro.md)
-  <!--- [/stoploss](bot/commands/stop_loss.md)-->
-  <!--- [/takeprofit](bot/commands/take_profit.md)-->
-  <!--- [/default](bot/commands/default.md)-->
-  - [/quote](bot/commands/quote.md)
-  - [/balances](bot/commands/balances.md)
-  - [/buy](bot/commands/buy.md)
-  - [/sell](bot/commands/sell.md)
-  - [/long](bot/commands/long.md)
-  - [/short](bot/commands/short.md)
-  - [/orders](bot/commands/orders.md)
-  - [/cancel](bot/commands/cancel.md)
-  - [/positions](bot/commands/positions.md)
-  - [/close](bot/commands/close.md)
-  - [/help](bot/commands/help.md)
+  - [Bot Commands](telegram/commands/intro.md)
+    <!--- [/stoploss](telegram/commands/stop_loss.md)-->
+    <!--- [/takeprofit](telegram/commands/take_profit.md)-->
+    <!--- [/default](telegram/commands/default.md)-->
+    - [/quote](telegram/commands/quote.md)
+    - [/balances](telegram/commands/balances.md)
+    <!--- [/buy](telegram/commands/buy.md)-->
+    <!--- [/sell](telegram/commands/sell.md)-->
+    <!--- [/long](telegram/commands/long.md)-->
+    <!--- [/short](telegram/commands/short.md)-->
+    - [/orders](telegram/commands/orders.md)
+    <!--- [/cancel](telegram/commands/cancel.md)-->
+    - [/positions](telegram/commands/positions.md)
+    <!--- [/close](telegram/commands/close.md)-->
+    - [/help](telegram/commands/help.md)
 <!--- [Features](features/index.md)-->
   <!--- [Notifications](features/notifications.md)-->
   <!--- [Group Chat](features/group_chat.md)-->
 <!--- [Signals](signals/index.md)-->
 - [Get in Touch](misc/Contact.md)
 - [Glossary](misc/Glossary.md)
-- [FAQ](misc/FAQ.md)
-<!--- [Contribute](misc/Contribute.md)-->
-  <!--- [Donate](misc/Contribute.md#donate)-->
+<!--- [FAQ](misc/FAQ.md)-->
