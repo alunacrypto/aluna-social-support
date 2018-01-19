@@ -1,0 +1,25 @@
+{
+  "gitbook": ">3.0.0",
+  "plugins": [
+    "edit-link",
+    "theme-vuejs@git+https://github.com/pearofducks/gitbook-plugin-theme-vuejs.git",
+    "-fontsettings",
+    "github",
+    "anchors"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/alunacrypto/aluna-social-support/tree/master/source",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/alunacrypto/aluna-social-support/"
+    }
+  },
+  "links": {
+    "sharing": {
+      "facebook": false,
+      "twitter": false
+    }
+  }
+}

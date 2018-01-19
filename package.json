@@ -1,0 +1,21 @@
+{
+  "name": "aluna_social_support",
+  "version": "1.0.0",
+  "description": "https://support.aluna.social",
+  "dependencies": {
+    "gitbook": "^3.2.3"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alunacrypto/aluna-social-support.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alunacrypto/aluna-social-support/issues"
+  },
+  "homepage": "https://github.com/alunacrypto/aluna-social-support#readme"
+}
