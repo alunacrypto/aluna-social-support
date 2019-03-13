@@ -1,4 +1,4 @@
-- [Insights](dashboard/intro.md)
+- [Dashboard](dashboard/intro.md)
   - [Creating an Account](dashboard/creating_an_account.md)
   - [Exchange Accounts](dashboard/connecting_exchance_accounts.md)
   - [Markets](dashboard/markets.md)
