@@ -1,7 +1,5 @@
 # Telegram Bot
 
-### What is Telegram?
-
 [Telegram](http://t.me) is an instant messaging application commonly used by crypto traders, it's widely known for the number of chatbots it provides and it's friendliness to developers, we like to think of it as  Whatsapp on steroids.
 
 If you still don't have [Telegram](http://t.me) you can [download it for free](http://t.me).
