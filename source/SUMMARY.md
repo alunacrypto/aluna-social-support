@@ -1,6 +1,6 @@
-- [Dashboard](dashboard/intro.md)
+- [Insights](dashboard/intro.md)
   - [Creating an Account](dashboard/creating_an_account.md)
-  - [Exchange Accounts](dashboard/connecting_exchance_accounts.md)
+  - [Connecting an Exchange Account](dashboard/connecting_exchance_accounts.md)
   - [Markets](dashboard/markets.md)
   <!-- - [How Copy Trade Works](dashboard/how_copy_trade_works.md) -->
 
